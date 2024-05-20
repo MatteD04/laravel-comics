@@ -1,11 +1,13 @@
 @extends('layouts.app')
 
+
+
 @section('content')
-    <div class="container">
+    <!-- <div class="container">
         <ul>
             @foreach ($comics as $comic)
                 <li>{{$comic['title']}}</li>
             @endforeach
         </ul>
-    </div>
+    </div> -->
 @endsection

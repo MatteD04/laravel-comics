@@ -1,0 +1,56 @@
+.assets-footer{
+    img{
+        width: 50%;
+        overflow-y: hidden;
+    }
+}
+.content-footer{
+    h1{
+        color: black;
+    }
+}
+.bg-footer{
+    background-image: url('../assets/img/footer-bg.jpg');
+    min-height: 300px;
+    .container{
+        background-image: url('../assets/img/dc-logo-bg.png');
+        background-position: 100%;
+        background-repeat: no-repeat;
+    }
+    h1{
+        color: white;
+    }
+}
+
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.follow-us{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+
+    h3{
+        color: rgb(0, 129, 199);
+    }
+}
+.social{
+    display: flex;
+    gap: 20px;
+}
+
+.bg-last-footer{
+    background-color: rgb(49, 49, 49);
+    padding: 20px 0;
+}
+.sign-up{
+    button{
+        background-color: transparent;
+        padding: 10px;
+        color: white;
+        border: 2px solid rgb(0, 129, 199);
+        cursor: pointer;
+    }
+}
