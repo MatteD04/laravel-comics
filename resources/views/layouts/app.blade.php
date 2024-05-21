@@ -21,7 +21,7 @@
         <div class="container">
             <div class="header-bar">
                 <div class="logo">
-                    <img src="#">
+                    <h1>DC</h1>
                 </div>
                 <nav class="navigation">
                     <ul>
@@ -44,20 +44,6 @@
         @yield('content')
     </main>
     <footer>
-        <div class="bg-footer">
-            <div class="container">
-                <div class="content-footer">
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                    <h1>contenuto</h1>
-                </div>
-            </div>
-        </div>
     
         <div class="bg-last-footer">
             <div class="container footer-info">
